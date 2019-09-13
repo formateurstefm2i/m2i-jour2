@@ -1,0 +1,22 @@
+From 6aa308fe182795edc194f6a106c71cd20c85716e Mon Sep 17 00:00:00 2001
+From: STEF <stef@example.com>
+Date: Fri, 13 Sep 2019 10:00:54 +0200
+Subject: [PATCH 1/2] C1
+
+---
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/README.md b/README.md
+index b2ba012..d881676 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,5 @@
+ # m2i-jour2
+ projet jour 2
++
++ligne de creation de patch
++
+-- 
+2.23.0.windows.1
+
